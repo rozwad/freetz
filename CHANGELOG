@@ -13,7 +13,7 @@ Latest changes:
     + add support for gcc-4.8.x/4.9.x/5.x
     + add support for x86 target
   * support for a 3rd (auxiliary) firmware
-  * fakeroot: bump version to 1.22
+  * fakeroot: bump version to 1.23
   * lzma SDK: bump lzma SDK version to 4.65
   * sfk: bump version to 1.9.1.2
   * squashfs* tools:
@@ -56,7 +56,7 @@ Latest changes:
     * iksemel 1.5-git
     * iperf 3.6
     * jansson 2.7
-    * jq 1.5
+    * jq 1.6
     * libavmacl2 (taken from AVM's 7490.06.30 open-source package)
     * libcap 2.24
     * libgsm-1.0.13
@@ -68,7 +68,7 @@ Latest changes:
     * libssh2 1.8.0
     * libusb-compat 0.1.5
     * lzma1 4.65
-    * mbed TLS 2.7.6
+    * mbed TLS 2.7.9
     * Mosquitto 1.4.15
     * nzbget 14.1
     * PJProject 2.2.1
@@ -91,7 +91,7 @@ Latest changes:
 
 - Updated packages and libs:
     * apache 2.4.34
-    * apr 1.6.3
+    * apr 1.6.5
     * apr-util 1.6.1
     * bash 3.2.57
     * bind 9.11.4
@@ -113,7 +113,7 @@ Latest changes:
     * freetype 2.5.5
     * fuse 2.9.7
     * gdb 7.9.1
-    * git 2.19.1
+    * git 2.21.0
     * gmp 6.1.2
     * gnu-make 4.2.1
     * gnutls 3.5.19
@@ -165,8 +165,8 @@ Latest changes:
     * obexftp 0.23
     * openconnect 7.04
     * openssh 7.9p1
-    * openssl 0.9.8zh/1.0.2q
-    * openvpn 2.4.6
+    * openssl 0.9.8zh/1.0.2r
+    * openvpn 2.4.7
     * pcre 8.42
     * pcscd 1.8.12
     * php 5.6.37
@@ -189,7 +189,7 @@ Latest changes:
     * screen 4.6.2
     * slang 2.3.1a
     * smartmontools 6.6
-    * sqlite 3.24.0
+    * sqlite 3.27.2
     * sslh 1.19c
     * strace 4.9 (kernel-2.6.13) / 4.23 (all other kernel versions)
     * stunnel 5.49
