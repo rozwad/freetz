@@ -10,12 +10,7 @@
 # Normal rules
 #
 .*
-*.gz
-*.bz2
 *.log
-*.lzma
-*.xz
-*.patch
 
 #
 # Top-level directories
@@ -41,5 +36,5 @@ include/config
 !.build-prerequisites
 !.defdynamic
 !.defstatic
-!.exclude-dist
-!.version
+!.freetz-version
+!.language
