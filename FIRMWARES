@@ -39,7 +39,7 @@ Currently supported boxes and firmwares
 
 * Fritz!Box WLAN 3370
 	* 103.06.30 rev30889
-	* 103.06.54 rev36870
+	* 103.06.55 rev38670
 	* 103.06.30 rev31156 (International)
 	* 103.06.52 rev34161 (International)
 * Fritz!Box WLAN 3390
@@ -304,7 +304,7 @@ Currently supported boxes and firmwares
 	* 153.07.12 rev70352
 
 * Fritz!Box Fon WLAN 7583
-	* 167.07.10 rev67491
+	* 167.07.12 rev70707
 
 * Fritz!Box Fon WLAN 7590
 	* 154.06.86 rev45533
@@ -339,7 +339,7 @@ Currently supported boxes and firmwares
 
 * Fritz!WLAN Repeater 1750E
 	* 134.07.01 rev63070
-	* 134.07.10 rev67488
+	* 134.07.12 rev70775
 
 * FRITZ!Repeater 3000 (EXPERIMENTAL)
 	* 174.07.12 rev70612
